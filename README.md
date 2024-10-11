@@ -3,14 +3,14 @@
 <div align="center">
 <img src="https://github.com/jhonsamuel10/assets/blob/main/1.png"  alt="Banner de Analisis de Datos" width="800"/>
 <div align="center">  
-<a href="https://www.linkedin.com/in/jhon-freddy-hernandez-bernal-jh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/linkedin.com/in/maria-mejia-p" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 </div>
 
  <div id="header" align="left">
 
 # 💫 About Me:
 Bienvenido a mi perfil de GitHub!  
-Soy un Business Intelligence con experiencia en análisis de datos, logística y comercio exterior, especializado en la optimización de la cadena de suministro. Manejo lenguajes de programación como SQL y Python
+Soy una Business Intelligence con experiencia en análisis de datos, logística y comercio exterior, especializado en la optimización de la cadena de suministro. Manejo lenguajes de programación como SQL y Python
 
 * :telescope: Realice el BootCamp de Data Analyst en TripleTen, con deseos de poder aplicar mis nuevos conocimientos que se complementan con mi experiencia y en Logistica y cadena de abastecimiento. :muscle:
 
@@ -18,11 +18,11 @@ Soy un Business Intelligence con experiencia en análisis de datos, logística y
 
 * :heartbeat: Me encanta poder solucionar problemas efectivamente y de manera mas rapida con la aplicacion de codigo. :detective:
 
-* :mailbox: ¿Quieres contactar conmigo? <a href="https://www.linkedin.com/in/jhon-freddy-hernandez-bernal-jh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+* :mailbox: ¿Quieres contactar conmigo? <a href="https://www.linkedin.com/in/maria-mejia-p" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 
-* :e-mail: freddyhernandez10@hotmail.com
+* :e-mail: mcamilamejiap2207@gmail.com
 
-* :iphone: +57 305 294 06 25
+* :iphone: +57 3138020326
 ---
 
 
@@ -53,8 +53,8 @@ Icons from https://simpleicons.org/
 
 <h3><b>Donde Encontrarme </b></h3>
 <p>
-<a href="https://github.com/jhonsamuel10" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/jhon-freddy-hernandez-bernal-jh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://github.com/mariacamilamejia" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/maria-mejia-p" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
