@@ -1,7 +1,7 @@
 <h1>Bienvenido!</h1>
 
 <div align="center">
-<img src="https://github.com/jhonsamuel10/assets/blob/main/1.png"  alt="Banner de Analisis de Datos" width="800"/>
+<img src="https://github.com/jhonsamuel10/assets/blob/main/maria.png"  alt="Banner de Analisis de Datos" width="800"/>
 <div align="center">  
 <a href="https://www.linkedin.com/in/maria-mejia-p" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" />
 </div>
